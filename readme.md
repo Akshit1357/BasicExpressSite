@@ -23,4 +23,4 @@ Run this command in console:
 node app.js
 ```
 
-Open `http://localhost:3000` to access basic Express Site.
+Open `http://localhost:3000` to access basic Express Site. You can access this sitehttps://aws.amazon.com/getting-started/hands-on/build-serverless-app-codestar-cloud9/  too.
